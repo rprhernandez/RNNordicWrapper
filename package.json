@@ -1,0 +1,43 @@
+{
+  "_from": "git+https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git",
+  "_id": "react-native-nordic-wrapper@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-nordic-wrapper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-nordic-wrapper@git+https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git",
+    "name": "react-native-nordic-wrapper",
+    "escapedName": "react-native-nordic-wrapper",
+    "rawSpec": "git+https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git",
+    "saveSpec": "git+https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git",
+    "fetchSpec": "https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git#803acb17ff67504973b5dfaa929169b00c9623cb",
+  "_spec": "react-native-nordic-wrapper@git+https:///tusharksarkar74@github.com/tusharksarkar74/RNNordicWrapper.git",
+  "_where": "/Users/macmini01/Desktop/New Projects/SampleApp",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-nordic-wrapper",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
